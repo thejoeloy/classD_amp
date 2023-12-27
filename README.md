@@ -7,9 +7,7 @@
 ![](classDamp.jpg)
 
 ## Demo
-<video width="672" height="1232" controls>
-  <source src="classDamp_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo Video](https://youtu.be/nvyOIwh3-Nw)
+
 
 
