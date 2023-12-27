@@ -8,7 +8,7 @@
 
 ## Demo
 <video width="672" height="1232" controls>
-  <source src="classD_amp.mp4" type="video/mp4">
+  <source src="classDamp_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
