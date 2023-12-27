@@ -1,1 +1,2 @@
-# classD_amp
+# class D amplifier
+
