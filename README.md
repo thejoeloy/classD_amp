@@ -1,4 +1,4 @@
-# class D amplifier
+# Class D amplifier
 
 ## Schematic
 ![](circuit_schematic.png)
